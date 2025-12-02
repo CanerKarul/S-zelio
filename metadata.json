@@ -1,0 +1,5 @@
+{
+  "name": "Sözelio",
+  "description": "KPSS, TYT ve AYT sözel dersleri için oyunlaştırılmış, Duolingo tarzı öğrenme platformu.",
+  "requestFramePermissions": []
+}
